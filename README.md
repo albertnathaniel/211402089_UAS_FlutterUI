@@ -2,8 +2,8 @@
 Implementasi UI Design dengan Flutter
 
 ## Screenshot Hasil Run
-![Screenshot 2023-12-19 010401](https://github.com/albertnathaniel/211402089_UAS_FlutterUI/assets/142523228/221a149e-ba2f-43ae-93d2-2bce5b194d28)
-![Screenshot 2023-12-19 010424](https://github.com/albertnathaniel/211402089_UAS_FlutterUI/assets/142523228/e5bc3c73-8b07-41d4-b051-53115fa21924)
+![image](https://github.com/albertnathaniel/211402089_UAS_FlutterUI/assets/142523228/4faf615b-8610-4175-95ec-efe006553318)
+![image](https://github.com/albertnathaniel/211402089_UAS_FlutterUI/assets/142523228/3b115555-10db-448e-b170-8531145c3bae)
 
 ## Getting Started
 
